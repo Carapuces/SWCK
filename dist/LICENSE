@@ -199,3 +199,35 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+========================================================================
+Apache 2.0 licenses
+========================================================================
+
+The following components are provided under the Apache License. See project link for details.
+The text of each license is the standard Apache 2.0 license.
+
+	logr v0.1.0: https://github.com/go-logr/logr Apache 2.0
+	cobra v0.0.5: https://github.com/spf13/cobra Apache 2.0
+	k8s.io/api v0.17.2: https://github.com/kubernetes/api Apache 2.0
+	k8s.io/apimachinery v0.17.2: https://github.com/kubernetes/apimachinery Apache 2.0
+	k8s.io/client-go v0.17.2: https://github.com/kubernetes/client-go Apache 2.0
+	controller-runtime v0.5.0: https://github.com/kubernetes-sigs/controller-runtime Apache 2.0
+
+========================================================================
+MIT licenses
+========================================================================
+
+The following components are provided under the MIT License. See project link for details.
+The text of each license is also included at licenses/LICENSE-[project].txt.
+
+	sirupsen (logrus) 1.4.2: https://github.com/sirupsen/logrus MIT
+
+========================================================================
+BSD licenses
+========================================================================
+
+The following components are provided under a BSD license. See project link for details.
+The text of each license is also included at licenses/LICENSE-[project].txt.
+
+	json-patch v4.5.0 https://github.com/evanphx/json-patch BSD 3-Clause
