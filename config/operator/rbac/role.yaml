@@ -147,4 +147,24 @@ rules:
   - clusterroles
   verbs:
   - '*'
+- apiGroups:
+    - operator.skywalking.apache.org
+  resources:
+    - storages
+  verbs:
+    - create
+    - delete
+    - get
+    - list
+    - patch
+    - update
+    - watch
+- apiGroups:
+    - operator.skywalking.apache.org
+  resources:
+    - storages/status
+  verbs:
+    - get
+    - patch
+    - update
 
